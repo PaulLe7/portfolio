@@ -1,10 +1,10 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2018-11-01'
+title: 'Sales Consultant'
+company: 'Optus'
+location: 'Melbourne, VIC'
+range: 'November 2018 - July 2020'
+url: 'https://www.optus.com.au/'
 ---
 
 - Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
