@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'Sample Landing Page'
 cover: './demo.png'
 github: 'https://github.com/PaulLe7/gatsby-travel'
