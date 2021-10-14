@@ -69,13 +69,14 @@ const Hero = () => {
       </p>
     </>
   );
-  const five = (
-    <a href="blank" target="_blank" rel="noreferrer">
-      ' '
-    </a>
-  );
+  // const five = (
+  //   <a href="blank" target="_blank" rel="noreferrer">
+  //     ' '
+  //   </a>
+  // );
 
-  const items = [one, two, three, four, five];
+  // const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledHeroSection>
