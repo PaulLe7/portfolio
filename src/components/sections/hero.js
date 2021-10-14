@@ -64,14 +64,14 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a self-taught programmer specialising in full stack web development. Currently, I’m looking for my first developer job to get me started on my tech career.
+        I'm a self-taught programmer specialising in full stack web development and I'm currently
+        looking for my first developer job!
       </p>
     </>
   );
   const five = (
-    <a
-      target="_blank"
-      rel="noreferrer">
+    <a href="blank" target="_blank" rel="noreferrer">
+      ' '
     </a>
   );
 
