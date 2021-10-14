@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/',
+      url: 'https://codepen.io/paulle7/pens/',
     },
   ],
 
