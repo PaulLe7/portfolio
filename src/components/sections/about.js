@@ -137,20 +137,25 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Paul and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2020 when I graduated from a Finance and Economics degree but decided to take a free course of EdX called CS50 (I highly recommend it to anyone just getting started with coding). Since completing the course, I've been hooked on programming and becoming a programmer.
+              interest in web development started back in 2020 when I graduated from a Finance and
+              Economics degree but decided to take a free course of EdX called CS50 (I highly
+              recommend it to anyone just getting started with coding). Since completing the course,
+              I've been hooked on programming and becoming a programmer.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve learnt a whole lot more than just basic HTML, CSS and JavaScript -
-              building out multiple web apps with exposure to multiple stacks such as the MERN and PERN stacks.
+              Fast-forward to today, and I’ve learnt a whole lot more than just basic HTML, CSS and
+              JavaScript - building out multiple web apps with exposure to multiple stacks such as
+              the MERN and PERN stacks.
             </p>
 
             <p>
-              I've also recently created a {' '}
+              I've also recently created a{' '}
               <a href="https://6164bb81b1bfc00007b96293--hungry-williams-d4d528.netlify.app/">
                 Twitter Clone (GitHub repo)
               </a>{' '}
-              which I hosted using AWS EC2 and wrote comprehensive deployment documentation for, and which can be read in the project's GitHub repository.
+              which I hosted using AWS EC2 and wrote comprehensive deployment documentation for, and
+              which can be read in the project's GitHub repository.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -165,7 +170,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.png"
+              src="../../images/me.jpg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
