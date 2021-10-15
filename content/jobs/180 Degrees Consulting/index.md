@@ -9,4 +9,3 @@ url: 'https://180dc.org/'
 
 - Analysed website traffic data using Google Analytics to implement a digital marketing strategy that improved website traffic by 25% for a Cambodian-based social enterprise that empowers women and their community
 - Investigated hypothetical revenue streams and cost-optimisation strategies for a non-profit media company in Melbourne
-- Prepared slide decks with visualised data and presented to directors and executives of small non-profit organisations

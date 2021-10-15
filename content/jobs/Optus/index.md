@@ -7,6 +7,5 @@ range: 'November 2018 - July 2020'
 url: 'https://www.optus.com.au/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Consistently ranked #1 in cross-selling products across store and region, boosting sales by $110k+ per month
+- Achieved and maintained a 97% NPS score by providing an exceptional customer experience for every customer
