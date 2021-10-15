@@ -125,7 +125,7 @@ const About = () => {
             <p>
               Hello! My name is Paul and I enjoy creating things that live on the internet. My
               interest in web development started back in 2020 when I graduated from a Finance and
-              Economics degree but decided to take a free course of EdX called CS50 (I highly
+              Economics degree but decided to take a free course on EdX called CS50 (I highly
               recommend it to anyone just getting started with coding). Since completing the course,
               I've been hooked on programming and becoming a programmer.
             </p>
@@ -139,7 +139,7 @@ const About = () => {
             <p>
               I've also recently created a{' '}
               <a href="https://6164bb81b1bfc00007b96293--hungry-williams-d4d528.netlify.app/">
-                Twitter Clone (GitHub repo)
+                Twitter Clone
               </a>{' '}
               which I hosted using AWS EC2 and wrote comprehensive deployment documentation for, and
               which can be read in the project's GitHub repository.
