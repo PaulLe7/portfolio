@@ -1,7 +1,7 @@
 ---
 date: '2019-08-01'
 title: 'Consultant'
-company: '180 Degrees Consulting (University of Melbourne)'
+company: '180DC'
 location: 'Melbourne, VIC'
 range: 'August 2019 - August 2020'
 url: 'https://180dc.org/'
