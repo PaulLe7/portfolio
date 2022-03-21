@@ -60,11 +60,16 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Paul Le.</h2>;
-  const three = <h3 className="big-heading">An aspiring developer.</h3>;
+  const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <>
       <p>
-        I'm currently working as a software engineer at Xplor Education.
+        I’m a software engineer specializing in building exceptional digital experiences. Currently,
+        I’m focused on building products to help educators focus more time on teaching at{' '}
+        <a href="https://www.ourxplor.com/" target="_blank" rel="noreferrer">
+          Xplor Education
+        </a>
+        .
       </p>
     </>
   );

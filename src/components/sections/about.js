@@ -135,13 +135,6 @@ const About = () => {
               such as MERN and PERN, and working with functional programming languages I had no idea existed such as Elixir and Erlang.
             </p>
 
-            <p>
-              I've also recently created a{' '}
-              <a href="https://github.com/PaulLe7/pern-twitter-clone">Twitter Clone</a> which I
-              hosted using AWS EC2 and wrote comprehensive deployment documentation for, and which
-              can be read in the project's GitHub repository.
-            </p>
-
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 
