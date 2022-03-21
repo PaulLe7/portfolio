@@ -113,7 +113,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'Gatsby', 'React', 'PostgreSQL', 'Node.js', 'AWS'];
+  const skills = ['Elixir', 'TypeScript', 'React', 'PostgreSQL', 'Node.js', 'AWS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -123,17 +123,16 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Paul and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2020 when I graduated from a Finance and
-              Economics degree but decided to take a free course on EdX called CS50 (I highly
-              recommend it to anyone just getting started with coding). Since completing the course,
-              I've been hooked on programming and becoming a programmer.
+              Hi. My name is Paul and I like to code. My
+              interest in programming started back in 2019 when I was studying a BCom degree with majors in Finance and
+              Economics. I took a breadth introductory Python subject and found it refreshing. I continued on with my degree,
+              graduating in mid 2020. But when I was finally about to start as a graduate consultant, a moment of self-reflection made
+              me realise I really wanted to give coding a shot. So I took the leap to learn how to code, and I haven't looked back since. 
             </p>
 
             <p>
-              Fast-forward to today, and I’ve learnt a whole lot more than just basic HTML, CSS and
-              JavaScript - building out multiple web apps with exposure to multiple stacks such as
-              the MERN and PERN stacks.
+              Fast-forward to today, and I’ve learnt a whole lot - building out multiple web apps with exposure to multiple stacks
+              such as MERN and PERN, and working with functional programming languages I had no idea existed such as Elixir and Erlang.
             </p>
 
             <p>

@@ -64,8 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a self-taught programmer specialising in full stack web development and I'm currently
-        looking for my first developer job!
+        I'm currently working as a software engineer at Xplor Education.
       </p>
     </>
   );

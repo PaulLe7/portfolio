@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Paul Le',
     description:
-      'Paul Le is an aspiring developer.',
+      'Paul Le is a software engineer.',
     siteUrl: 'https://paulle.netlify.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@paulle77',
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'PaulLe',
+        short_name: 'PaulLe',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
